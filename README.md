@@ -1,8 +1,8 @@
-# Mathematical Python
-MCMC algorithm and Gene Counting Algorithm
+# Monte Carlo Markov Chain Sampling Method (MCMC)
+MCMC algorithm & Gene Counting Algorithm 
 
-1) Introduction to Bayesian statistics, Bayesian parameters, and Metropolis Choice algorithm
-2) Concepts into mathematical programming. 
-3) Improving python programming skills.
-4) Bayesians statistics: Prior, Posterior Distribution, Posterior Density. 
-5) 
+This is Anabel's journey into computational biology and bioinformatics. Here is a list of concepts which are introduced in this folder:
+1) Introduction to Bayesian statistics, and Bayesian parameters
+2) Metropolis Hastings (MH) algorithm
+3) Functional programming, statistical programming 
+
